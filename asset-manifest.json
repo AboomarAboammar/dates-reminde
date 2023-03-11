@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dates-reminde/static/css/main.ba841b21.css",
+    "main.js": "/dates-reminde/static/js/main.b0f1161f.js",
+    "index.html": "/dates-reminde/index.html",
+    "main.ba841b21.css.map": "/dates-reminde/static/css/main.ba841b21.css.map",
+    "main.b0f1161f.js.map": "/dates-reminde/static/js/main.b0f1161f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba841b21.css",
+    "static/js/main.b0f1161f.js"
+  ]
+}
